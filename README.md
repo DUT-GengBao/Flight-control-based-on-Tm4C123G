@@ -5,3 +5,4 @@ IMU与低板采用减震球进行联接，减少机体震动对IMU的影响。
 ![3DView](https://github.com/DUT-GengBao/Flight-control-based-on-Tm4C123G/blob/master/pic/3DView.png)
 ![pcbToplayer](https://github.com/DUT-GengBao/Flight-control-based-on-Tm4C123G/blob/master/pic/pcbToplayer.png)
 ## IMU设计见
+https://github.com/DUT-GengBao/imu.git
